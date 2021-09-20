@@ -2,7 +2,7 @@
 title: '鲜女茶话会答案仓库'
 description: '神奇的鲜女茶话会？'
 keyword: '鲜女茶话会'
-url: '//lightoo1122.github.io/FFTT' # your host
+url: '//fftt.yixin.blue' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -12,7 +12,7 @@ url: '//lightoo1122.github.io/FFTT' # your host
 # 例如，当你的域名是 "kaeyleo.github.io"  时，这个 url 需要留空
 # but if your created a repo named "myblog", and the site is "kaeyleo.github.io/myblog", change baseurl to '/myblog'
 # 但是，如果你创建了一个叫 "myblog" 的网站，此时网址会变成 "kaeyleo.github.io/myblog" ，这时再将 baseurl 设置为 '/myblog'
-baseurl: '/FFTT'
+baseurl: '//fftt.yixin.blue'
 
 # Navigation links
 nav:
